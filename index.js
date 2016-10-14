@@ -56,16 +56,16 @@ request.get(credentials.url, {
 					    html: msg
 					};
 
-					setTimeout(function() {
-					    // send mail with defined transport object
-						transporter.sendMail(mailOptions, function(error, info){
-						    if(error){
-						        return console.log(error);
-						    }
-						    console.log('Message sent: ' + info.response);
-						});
+					var waitTill = new Date(new Date().getTime() + 300 * 1000);
+					while(waitTill > new Date());
 
-					}, 300000);
+			    	// send mail with defined transport object
+					transporter.sendMail(mailOptions, function(error, info){
+					    if(error){
+					        return console.log(error);
+					    }
+					    console.log('Message sent: ' + info.response);
+					});
 
 
 				  } else {

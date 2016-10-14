@@ -65,7 +65,7 @@ request.get(credentials.url, {
 						    console.log('Message sent: ' + info.response);
 						});
 
-					}, 3000);
+					}, 300);
 
 
 				  } else {

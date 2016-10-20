@@ -56,7 +56,7 @@ request.get(credentials.url, {
 					    html: msg
 					};
 
-					var waitTill = new Date(new Date().getTime() + 300 * 1000);
+					var waitTill = new Date(new Date().getTime() + 30 * 1000);
 					while(waitTill > new Date());
 
 			    	// send mail with defined transport object

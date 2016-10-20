@@ -1,0 +1,246 @@
+Please Complete ALL Sections Marked in YELLOW
+ 
+Contract #
+ 
+ 
+Statement of Work/Purchase Order/Schedule
+ 
+This Statement of Work/Purchase Order/Schedule ("SOW") is between Microsoft Corporation ("Microsoft") and Keystone Strategy, LLC. ("Contractor").  If this SOW is being entered into under the Microsoft Corporation Purchase Order Terms and Conditions (the “PO”), this SOW is effective as of the "start" date listed in the PO .  If this SOW is being entered into under an agreement other than the PO, this SOW is effective as of April 1, 2010.  The PO or such other governing agreement, as applicable, are referred to in this SOW as the “Agreement.”  The parties agree as follows:
+ 
+1.               Detailed Description of Work :  The following describes the project expectations and specifications, Contractor activities, and reporting requirements for goods, services, products, and/or other items or materials that Contractor shall perform and/or deliver to Microsoft under the Agreement as a work made for hire (collectively, the “Work”):
+ 
+Keystone, together with Microsoft, has recently developed an analytical framework to better understand how users differ with respect to their level of engagement with Windows Live Hotmail. This framework – called the Customer Engagement Flow – defines successive stages of engagement extending from low involvement users (i.e., users who have never used Hotmail) to Occasional users (i.e., those who use Hotmail intermittently) to higher engagement users (i.e., those who use Hotmail regularly as their ‘primary’ webmail provider). The Hotmail Customer Engagement Flow framework is vital to the Hotmail organization as it seeks to increase engagement with current users and acquire new users to achieve its goal of increasing webmail market share. 
+ 
+This project is designed to extend Keystone Strategy’s prior work with Microsoft to define the Customer Engagement Flow.  In the first phase of work, Keystone partnered with Data Sciences and the Windows Live Hotmail Organization to define the stages of Hotmail engagement and to profile the Hotmail Engagement Groups.  With this Customer Engagement Flow framework as the starting point, Keystone will now analyze the “drivers” that trigger increased (or decreased) engagement with Hotmail.
+ 
+The key questions this research seeks to answer can be summarized as follow:
+ 
+
+    What are the attitudes about Hotmail, its features, and competing webmail providers that drive users’ decisions to:
+        Obtain a Hotmail account
+        Increase the frequency of Hotmail use and the share of minutes on Hotmail
+        Decrease the frequency of Hotmail use and the share of minutes on Hotmail
+        Maintain the same frequency of use and the share of minutes on Hotmail 
+    What are the user’s webmail and internet consumption patterns that coincide with:
+        New Hotmail usage
+        Increased frequency of Hotmail use and share of minutes on Hotmail
+        Decreased frequency of Hotmail use and share of minutes on Hotmail 
+    What are the attitudes and behaviors that determine the propensity for a user to switch webmail providers?  To use multiple webmail providers?
+    What are the attitudes of Consistent Primary users that results in them spending over 90% of their minutes on Hotmail?
+    What are the drivers that attract users to increase minutes, page views and days on webmail?
+    What is the behavior of users toward webmail, POP and client accounts?
+    What is the perceived relationship between Hotmail usage and related Microsoft Online Services such as Bing and MSN?
+    Which actions might Marketing, Product Planning, Product Management and Engineering take to realize Microsoft’s goals for expanding its Hotmail user base, increasing engagement, and growing its share of webmail minutes? 
+
+ 
+This research is designed to influence how Marketing, Product Planning, and Product Management plan features for upcoming product releases and how these features are promoted to users.
+ 
+Work stream 1 - Attitudinal Drivers of Hotmail Engagement:  Survey Analysis
+ 
+This work stream will develop and administer a survey to probe consumers’ attitudes about Hotmail and the factors that have caused them to use Hotmail or change their level of engagement.  The survey will explore many potential drivers of Hotmail use (e.g., product features, perceptions of webmail providers, technology changes, changes in the use of related online products and services). The survey will seek to identify those drivers which Marketing, Product Management, Product Planning, and Engineering might use to attain Microsoft’s webmail share goals.
+ 
+This portion of the project will entail developing a survey instrument designed to test key hypotheses, fielding the survey to a panel of internet users, and analyzing the survey results.  The analysis will aim to identify drivers for triggering new Hotmail accounts, increasing engagement with Hotmail, and taking steps to address the factors leading to decreased engagement. Specifically, Keystone will:
+ 
+
+    Conduct 15-20 qualitative interviews to test initial hypothesis for inclusion in the survey.  The results of these interviews will feed directly into the development of the quantitative survey. 
+    Work with the Hotmail team, Data Sciences, and other stakeholders to design and write a quantitative survey to be fielded to online panelists. This survey instrument will include the screener, the questionnaire, and detailed programmer notes for the creation of the online survey. 
+    Quality control the online survey and work with the team to resolve online survey issues prior to launch to the panel of internet users
+    Develop validation rules to define acceptable sample for analysis. Validation rules can be based on the following tests:
+        Time for user to complete survey
+        User response to quality control questions
+        Logical inconsistencies in user survey responses
+        ‘Straight-line’ responses
+        Consistency of survey responses and observed behavior 
+    Analyze results of survey to understand drivers for:
+        New Hotmail usage
+        Increased Hotmail engagement
+        Decreased Hotmail engagement
+        Steady Hotmail engagement 
+    Develop PowerPoint presentation summarizing results of attitudinal driver analysis
+        Assessment of features most/least likely to increase user engagement with Hotmail; determination of factors most/least likely tied to decrease engagement
+        Recommendations on drivers to increase Hotmail engagement and/or minimize churn
+        Profile Hotmail users based on their recent engagement history with Hotmail. Profiling can include key groups of users across multiple variables.  Variables used in profiling can include but may not necessarily be limited to:
+            Perceptions of webmail providers
+            Satisfaction with webmail providers
+            Awareness of Hotmail features
+            Recent experience with Hotmail features
+            Influencers on Hotmail use
+            Primary products (e.g., search, instant messaging, portal, browser)
+            Changes to online services used (e.g., search, instant messaging, portal, browser)
+            Default home page preferences
+            Installed software changes (e.g., toolbar, browser, search defaults)
+            Use of client email and POP
+            Demographics 
+    Transition database of survey results as well as any derived variables to Hotmail Product Management organization 
+
+ 
+Work stream 2 - Behavioral Drivers of Hotmail Engagement:  comScore Cohort Analysis
+ 
+To complement the research in work stream 1, Keystone will also investigate user behavior with a cohort of machines drawn from the comScore panel. This analysis of different patterns of webmail usage and internet use can shed light on the behavioral determinants of Hotmail engagement.
+ 
+The methodology for this research will use a cohort of 81,919 machines with internet use for seven (or more) consecutive months.  Each machine will be flagged as increasing, decreasing, or maintaining its engagement with Hotmail.  From this, an analysis of factors surrounding the machine’s webmail use can be used to identify events that coincide with user’s change in Hotmail engagement.
+ 
+In this portion of the project, Keystone will:
+ 
+
+    Create a behavioral data set encompassing variables on webmail usage, consumption of related internet products (e.g., search, portal, IM, etc) and general internet consumption; develop derived variables to understand the drivers associated with changes in Hotmail engagement
+    For key user groups (i.e., increased engagement, decreased engagement, new trial, and steady Hotmail engagement), identify driver events linked to Hotmail engagement changes. Engagement drivers might include (but are not necessarily limited to):
+        Change in webmail use
+            Webmail preference
+            Single/multi-homing trends
+            Webmail intensity 
+        Change in usage of related products and services (search, instant messaging, portal)
+        Change in default home page settings
+        Change in internet browser use
+        Installation of client software (e.g., search toolbar) 
+    Analyze behavioral factors and prioritize drivers most/least likely to be linked to a change in Hotmail engagement.
+    Develop a PowerPoint summary of findings
+        Assessment of factors most/least likely to increase user engagement with Hotmail; determination of factors most/least likely tied to decreased engagement
+        Recommendations on drivers to increase Hotmail engagement and/or actions to minimize churn 
+
+ 
+2.               Milestones and Deliverables
+ 
+Milestone / Deliverable
+	
+Approx. Timing
+	
+Description of Deliverables
+Milestone One:  Develop Survey Instrument
+and prepare for Behavioral Drivers analysis
+	
+April 29
+	
+
+    Deliver Engagement Framework Summary Analysis according to a segmentation by days of usage
+    Workstream 1 (Survey Analysis)
+        Conduct 15-20 qualitative interviews
+        Develop online survey instrument 
+    Workstream 2 (Behavioral Analysis)
+        Prepare behavioral data set including webmail use and consumption of related internet products 
+
+Milestone Two:  Behavioral Driver Analysis
+	
+May 27
+	
+
+    Workstream 1 (Survey Analysis)
+        Implement survey
+        Validate survey findings 
+    Workstream 2 (Behavioral Analysis)
+        Analyze behavioral drivers
+        Deliver PowerPoint presentation summarizing findings from behavioral analysis 
+
+Milestone Three:   Attitudinal Driver Analysis
+	
+June 17
+	
+
+    Workstream 1 (Survey Analysis)
+        Analyze full survey results
+        Deliver PowerPoint presentation summarizing findings on attitudinal drivers of Hotmail engagement 
+
+ 
+ 
+
+    Payment: 
+
+ 
+Conditioned upon Microsoft’s acceptance of the Work, and as complete and final payment for the Work, Microsoft shall pay Contractor a:
+  flat fee of U.S. Dollars ( $ USD).
+Or
+total fee not to exceed two-hundred and one thousand dollars U.S. Dollars ($201,000 USD) in accordance with the following milestone payment schedule:
+ 
+ 
+	
+USD Amount
+Milestone One payment amount
+	
+$ 71,000
+Milestone Two payment amount
+	
+$ 65,000
+Milestone Three payment amount
+	
+$ 65,000
+ 
+The fee shall include all of Contractor’s professional fees for performing the Work. 
+ 
+4.               Expenses :  ( Choose One )
+ 
+              In addition, Microsoft shall reimburse Contractor up to thousand US Dollars (US$0,000) for reasonable and actual travel and travel-related expenses incurred by Contractor in connection with the performance of the Work.  All travel expenses hereunder are subject to Microsoft’s review and the Microsoft Travel Policy and Contractor must submit appropriate documentation evidencing expenses to be reimbursed.
+5.               Microsoft Contact Information:
+Microsoft Business Contact Name
+	
+Jim Gascoigne
+Contact Email
+	
+Jim.gascoigne@microsoft.com
+Microsoft Business Group Name
+	
+Hotmail Marketing
+Contact Phone
+	
+(425)  722 8883
+ 
+6.               Contractor Contact Information:              
+ 
+Contractor Name
+	
+Keystone Strategy, LLC
+Contact Email
+	
+rbock@keystonestrategy.com
+Contractor Contact Name
+	
+Robert Bock
+Contact Phone
+	
+415 235-6855
+ 
+ 
+ 
+This SOW is hereby incorporated into the Agreement and is subject to all of its terms and conditions. 
+ 
+MICROSOFT CORPORATION
+	
+ 
+Keystone Strategy, LLC
+One Microsoft Way
+Redmond , WA 980526399
+	
+400 Oyster Point Blvd. Suite 204  
+South San Francisco , CA 94080  
+ 
+	
+ 
+ 
+	
+ 
+ 
+By ___________________________________
+(Sign)
+	
+By ___________________________________
+(Sign)
+______________________________________
+Name (Print)
+	
+______Robert Bock___________________
+Name (Print)
+______________________________________
+Title
+	
+________________________
+Title
+______________________________________
+Date
+	
+______________________________________
+Date
+ 
+	
+
+________760838207_____________
+Company's Federal Employer ID Number
+or Social Security Number 

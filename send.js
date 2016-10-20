@@ -10,14 +10,14 @@ var msg = ""
 var lines = []
 
 var num = Math.floor(Math.random() * (5 - 1) + 1);
-var filename = './data/template-'+num+'.txt'
-var attachment = './data/template-'+num+'.pdf'
+var filename = 'template-'+num+'.txt'
+var attachment = 'template-'+num+'.pdf'
 
 console.log(num)
 
 if(num > 2) {
-	filename = './data/template-'+(num-2)+'.txt'
-	attachment = './data/template-'+(num-2)+'.pdf'
+	filename = 'template-'+(num-2)+'.txt'
+	attachment = 'template-'+(num-2)+'.pdf'
 }
 
 var rl = readline.createInterface({
